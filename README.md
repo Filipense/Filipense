@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Filipense
 - 👀 I’m interested in em aprender a programar 
-- 🌱 I’m currently learning de tudo um pouco 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently aprendendo de tudo um pouco 
+- 💞️ I’m looking to collaborate on que me ajude 
+- 📫 How to reach me luis.felipe.lf721@gmail.com
 
 <!---
 Filipense/Filipense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
